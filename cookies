@@ -1,0 +1,10 @@
+print "cookies in"
+num = 4
+limit = 1
+while ( num >= limit )
+        print num, " "
+        num = num - 1
+        if ( num == limit)
+                print "nom nom nom!"
+        end if
+end while
